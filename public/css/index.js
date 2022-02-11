@@ -1,0 +1,1 @@
+var demo = "This is a index.js file which contains under css folder"
